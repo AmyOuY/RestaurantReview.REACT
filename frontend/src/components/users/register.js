@@ -52,7 +52,7 @@ async onSubmit(event){
 			this.setState({
 				username: "",
 				password: "",
-				adminCo: ""
+				adminCode: ""
 			})
 		}
 		else{				
