@@ -1,0 +1,82 @@
+
+.btn-delete {
+	margin-left: 10px;
+}
+
+.delete {
+	display: inline;
+}
+
+
+.restaurantDisplay {
+	display:flex; 
+	flex-wrap: wrap;
+}
+
+
+.h3-head {
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+
+.form-head {
+	width: 40%;
+	margin: 30px auto;
+}
+
+
+.thumbnail {
+	padding: 0;
+}
+
+
+.thumbnail img {
+	width: 100%;
+}
+
+
+.thumbnail .caption-full {
+	padding: 10px;
+}
+
+
+#restaurantName {
+	color: purple;
+}
+
+
+#restaurantFlavor {
+	color: green;
+}
+
+
+#restaurantDescription {
+	color: blue;
+}
+
+
+#landing-header {
+	z-index: 1;
+	position: relative;
+	text-align: center;
+	padding-top: 40vh;
+}
+
+
+#landing-header h1 {
+	color: #fff;
+}
+
+
+#landingImage {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left:0;
+	background-size: cover;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	z-index: 0;
+}
