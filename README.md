@@ -1,4 +1,4 @@
-# Restaurant Review Website
+# Restaurant Review Website (React front-end)
 
 <ul>
   <li> A RESTful style Web application that allows users to share their reviews of restaurants by uploading photos and comments and search for restaurants. </li>
@@ -30,8 +30,9 @@
 
 <hr>
 <h3> Adding new restaurant or new comment requires user login </h3>
+<img src="./Images/loginRequest2.png">
 <img src="./Images/loginRequest1.png">
-<img src="./Images/longinRequest2.png">
+
 
 <hr>
 <h3> Message shows whether user register or login is successful </h3>
