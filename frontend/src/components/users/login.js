@@ -8,9 +8,6 @@ import Message from "../../components/partials/message";
 class Login extends Component{
 	static contextType = UserContext;
 
-	state = {
-		user: null
-	};
 
 	constructor(props){
 		super(props);
